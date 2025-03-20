@@ -151,3 +151,5 @@ python examples/locomotion/go2_backflip.py -e double
 """
 """
 # training"""
+traing humanoid
+"""
