@@ -149,7 +149,4 @@ if __name__ == "__main__":
 python examples/locomotion/go2_backflip.py -e single
 python examples/locomotion/go2_backflip.py -e double
 """
-"""
-# training"""
-traing humanoid
-"""
+
